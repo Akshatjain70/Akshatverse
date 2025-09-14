@@ -5,9 +5,9 @@ export default function About() {
       <div className="py-16 bg-white">
           <div className="container m-auto px-6 text-gray-600 md:px-12 xl:px-6">
               <div className="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
-                  <div className="md:5/12 lg:w-5/12">
+                  <div className="md:5/12 lg:w-4/12">
                     
-                <img src="/IMG_20250202_145617_232.jpg" alt="My Photo" />
+                <img src="/Screenshot_2025-09-15-00-42-32-064_com.android.chrome.JPG" alt="My Photo" />
 
                   </div>
                   <div className="md:7/12 lg:w-6/12">
