@@ -23,9 +23,26 @@ export default function About() {
                          and performance optimization while contributing to real-world projects.
 
                       </p>
-                      <p className="mt-4 text-gray-600">
-                          Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at?
-                          Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia.
+                        <p className="mt-4 text-gray-600">
+                          <h2 className='text-black text-2xl'>Currency Converter Web App </h2>
+                        •	Built using React.js, HTML, CSS, and JavaScript.
+                        •	Fetches real-time exchange rates via API integration. 
+
+                         <a className='text-blue-600 text-right' 
+                         href="https://calm-mermaid-9ffaff.netlify.app/" target="_blank">
+                         currency converter
+                        </a>
+            
+
+                         <h2 className='text-black text-2xl'>  Weather App</h2>
+                        •	Created a real-time weather forecast application with responsive UI.
+                        •	Integrated OpenWeather API to fetch temperature, humidity, and conditions.
+                        •	Optimized API requests for fast performance .
+
+                         <a className='text-blue-600 text-right' 
+                         href="https://bejewelled-trifle-08d27b.netlify.app/" target="_blank">
+                         Weather App
+                        </a>
                       </p>
                   </div>
               </div>
